@@ -30,7 +30,13 @@ Git · GitHub · Vite · Vercel · Render
 
 ### 📌 Featured Projects
 
-Selected projects and applications will be added here as they are completed and prepared for the portfolio.
+#### 🎬 Movie Search
+
+A responsive movie search application built with React and TypeScript. Users can search for movies, browse paginated results, and view detailed movie information using the TMDB API.
+
+**Tech:** React · TypeScript · React Query · Axios · CSS Modules · Vite
+
+[Live Demo](https://04-react-query-mu-ashy.vercel.app/) · [Repository](https://github.com/Serhii-Taran-dev/movie-search)
 
 ---
 
