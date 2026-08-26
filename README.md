@@ -38,7 +38,7 @@ A responsive movie search application built with React and TypeScript. Users can
 
 [Live Demo](https://04-react-query-mu-ashy.vercel.app/) · [Repository](https://github.com/Serhii-Taran-dev/movie-search)
 
----
+<br>
 
 #### 🔎 Image Search
 
