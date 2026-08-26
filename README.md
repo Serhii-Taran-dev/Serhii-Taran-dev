@@ -40,6 +40,16 @@ A responsive movie search application built with React and TypeScript. Users can
 
 ---
 
+#### 🔎 Image Search
+
+A responsive image search application built with vanilla JavaScript. Users can search for images, browse paginated results, and view full-size images using the Pixabay API.
+
+**Tech:** JavaScript · HTML5 · CSS3 · Vite · Axios · Pixabay API · SimpleLightbox · iziToast
+
+[Live Demo](https://serhii-taran-dev.github.io/image-search-app/) · [Repository](https://github.com/Serhii-Taran-dev/image-search-app)
+
+---
+
 ### 🎯 My Approach
 
 I believe in building useful solutions with clean code, practical architecture, and a clear focus on the end user.
