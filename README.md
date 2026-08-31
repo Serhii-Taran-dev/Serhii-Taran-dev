@@ -40,6 +40,16 @@ A responsive movie search application built with React and TypeScript. Users can
 
 <br>
 
+#### ⛵ YachtJet
+
+A premium responsive landing page for a luxury yacht rental service. Features interactive yacht and reviews carousels, touch and pointer gestures, an accessible mobile menu, and custom client-side form validation.
+
+**Tech:** JavaScript · HTML5 · CSS3 · Responsive Design · Accessibility
+
+[Live Demo](https://serhii-taran-dev.github.io/yacht-jet-landing/) · [Repository](https://github.com/Serhii-Taran-dev/yacht-jet-landing)
+
+<br>
+
 #### 🔎 Image Search
 
 A responsive image search application built with vanilla JavaScript. Users can search for images, browse paginated results, and view full-size images using the Pixabay API.
