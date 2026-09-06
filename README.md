@@ -30,6 +30,14 @@ Git · GitHub · Vite · Vercel · Render
 
 ### 📌 Featured Projects
 
+#### 📝 NoteHub
+
+A full-stack productivity application for creating, organizing, searching, and managing personal notes. Features cookie-based authentication, protected routes, user profiles, filtering, pagination, modal note previews, responsive design, and persistent light and dark themes.
+
+**Tech:** Next.js · React · TypeScript · TanStack Query · Zustand · Axios · CSS Modules · REST API · Vercel
+
+[Live Demo](https://notehub-app-plum.vercel.app/) · [Repository](https://github.com/Serhii-Taran-dev/notehub-app)
+
 #### 🎬 Movie Search
 
 A responsive movie search application built with React and TypeScript. Users can search for movies, browse paginated results, and view detailed movie information using the TMDB API.
