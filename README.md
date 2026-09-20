@@ -1,10 +1,14 @@
 ## Hi, I'm Serhii Taran 👋
 
-### FullStack Developer | Web Applications, Digital Products & AI
+### Full-Stack Developer | Web Applications, Digital Products & AI
 
-I’m a FullStack Developer focused on building modern, practical web applications and digital products.
+I build modern web applications and digital products using full-stack technologies, with a focus on clean architecture, usability and real-world value. I also explore AI integration where it can make products smarter, more efficient and more useful.
 
-I build practical web applications and digital products using modern full-stack technologies, with a focus on clean architecture, usability, and real-world value. I also explore AI integration where it can make products smarter, more efficient, or more useful.
+### 🌐 Personal Portfolio
+
+Explore my professional background, selected work, technical focus and approach to building accessible, production-ready web solutions.
+
+[Visit Portfolio](https://serhii-taran-portfolio.vercel.app/) · [Source Code](https://github.com/Serhii-Taran-dev/serhii-taran-portfolio)
 
 ---
 
@@ -37,6 +41,8 @@ A full-stack productivity application for creating, organizing, searching, and m
 **Tech:** Next.js · React · TypeScript · TanStack Query · Zustand · Axios · CSS Modules · REST API · Vercel
 
 [Live Demo](https://notehub-app-plum.vercel.app/) · [Repository](https://github.com/Serhii-Taran-dev/notehub-app)
+
+<br>
 
 #### 🎬 Movie Search
 
