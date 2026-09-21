@@ -74,6 +74,16 @@ A responsive image search application built with vanilla JavaScript. Users can s
 
 ---
 
+### 🎓 Education & Certifications
+
+- **Fullstack Developer Course** — GoIT  
+  872 hours · Completed June 2026 · [View certificate](https://serhii-taran-portfolio.vercel.app/documents/Serhii-Taran-GoIT-Fullstack-Certificate.pdf)
+
+- **SQL Module — Data Analytics Course** — DAN.IT Education  
+  Completed July 2026 · [View certificate](https://certificates.dan-it.com.ua/certificates/sql-module/serhii-taran)
+
+---
+
 ### 🎯 My Approach
 
 I believe in building useful solutions with clean code, practical architecture, and a clear focus on the end user.
