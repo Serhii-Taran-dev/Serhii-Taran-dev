@@ -96,7 +96,7 @@ I believe in building useful solutions with clean code, practical architecture, 
 
 - Portfolio: [serhii-taran-portfolio.vercel.app](https://serhii-taran-portfolio.vercel.app/)
 - GitHub: [Serhii-Taran-dev](https://github.com/Serhii-Taran-dev)
-- Email: [serg.taran1970@gmail.com](mailto:serg.taran1970@gmail.com)
+- Email: [serhii.taran.dev@gmail.com](mailto:serhii.taran.dev@gmail.com)
 
 ---
 
