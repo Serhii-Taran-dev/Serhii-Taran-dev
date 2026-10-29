@@ -95,6 +95,7 @@ I believe in building useful solutions with clean code, practical architecture, 
 ### 🤝 Let's Connect
 
 - Portfolio: [serhii-taran-portfolio.vercel.app](https://serhii-taran-portfolio.vercel.app/)
+- LinkedIn: [Serhii Taran](https://www.linkedin.com/in/serhii-taran-213b41444)
 - GitHub: [Serhii-Taran-dev](https://github.com/Serhii-Taran-dev)
 - Email: [serhii.taran.dev@gmail.com](mailto:serhii.taran.dev@gmail.com)
 
